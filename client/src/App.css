@@ -1,0 +1,11 @@
+.top2{
+    color: white;
+    margin-left:50px ;
+}
+.top2:hover{
+   background-color: red;
+   border-radius: 15px;
+}
+body{
+    overflow-x: hidden;
+}
